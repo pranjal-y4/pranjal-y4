@@ -1,6 +1,7 @@
+![MasterHead](https://marketplace.canva.com/EAEvZt5s6Fs/1/0/1600w/canva-gray-office-desk-linkedin-banner-R6whMOodyQY.jpg)
 <h1 align="center">Pranjal Yadav</h1>
 <h3 align="center">A passionate software developer and machine learning enthusiast.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal-y4&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal-y4" /> </p>
 
 - 💻 Currently working on **Supply Chain Management Using Blockchain**
