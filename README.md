@@ -1,9 +1,7 @@
-<h1 align="center">Hey ⭐️, I'm Pranjal</h1>
+<h1 align="center">Pranjal Yadav</h1>
 <h3 align="center">A passionate software developer and machine learning enthusiast.</h3>
-
+<img align=“right” alt=“Coding” width=“400” src=“https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal-y4&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal-y4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal-y4" alt="pranjal-y4" /></a> </p>
 
 - 💻 Currently working on **Supply Chain Management Using Blockchain**
 
@@ -17,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/pranjal-yadav-b6392b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-yadav-b6392b213" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
