@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Learning | Blockchain | Data Science**
 
-- 📫 How to reach me **pranjal13y@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
